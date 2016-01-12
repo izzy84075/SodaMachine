@@ -1,0 +1,10 @@
+Assuming the coin machine dispenser tubes are ~1 foot tall, it could hold:
+	200 pennies
+	156 nickels
+	225 dimes
+	174 quarters
+	141 halfdollars
+	152 dollars
+	
+	Based on info from http://www.usmint.gov/about_the_mint/?action=coin_specifications
+	
